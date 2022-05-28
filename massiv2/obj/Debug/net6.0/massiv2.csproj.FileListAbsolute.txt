@@ -1,0 +1,15 @@
+C:\Users\a.goncharova\Desktop\Seminar2\lection\lection4\massiv2\bin\Debug\net6.0\massiv2.exe
+C:\Users\a.goncharova\Desktop\Seminar2\lection\lection4\massiv2\bin\Debug\net6.0\massiv2.deps.json
+C:\Users\a.goncharova\Desktop\Seminar2\lection\lection4\massiv2\bin\Debug\net6.0\massiv2.runtimeconfig.json
+C:\Users\a.goncharova\Desktop\Seminar2\lection\lection4\massiv2\bin\Debug\net6.0\massiv2.dll
+C:\Users\a.goncharova\Desktop\Seminar2\lection\lection4\massiv2\bin\Debug\net6.0\massiv2.pdb
+C:\Users\a.goncharova\Desktop\Seminar2\lection\lection4\massiv2\obj\Debug\net6.0\massiv2.csproj.AssemblyReference.cache
+C:\Users\a.goncharova\Desktop\Seminar2\lection\lection4\massiv2\obj\Debug\net6.0\massiv2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.goncharova\Desktop\Seminar2\lection\lection4\massiv2\obj\Debug\net6.0\massiv2.AssemblyInfoInputs.cache
+C:\Users\a.goncharova\Desktop\Seminar2\lection\lection4\massiv2\obj\Debug\net6.0\massiv2.AssemblyInfo.cs
+C:\Users\a.goncharova\Desktop\Seminar2\lection\lection4\massiv2\obj\Debug\net6.0\massiv2.csproj.CoreCompileInputs.cache
+C:\Users\a.goncharova\Desktop\Seminar2\lection\lection4\massiv2\obj\Debug\net6.0\massiv2.dll
+C:\Users\a.goncharova\Desktop\Seminar2\lection\lection4\massiv2\obj\Debug\net6.0\refint\massiv2.dll
+C:\Users\a.goncharova\Desktop\Seminar2\lection\lection4\massiv2\obj\Debug\net6.0\massiv2.pdb
+C:\Users\a.goncharova\Desktop\Seminar2\lection\lection4\massiv2\obj\Debug\net6.0\massiv2.genruntimeconfig.cache
+C:\Users\a.goncharova\Desktop\Seminar2\lection\lection4\massiv2\obj\Debug\net6.0\ref\massiv2.dll
