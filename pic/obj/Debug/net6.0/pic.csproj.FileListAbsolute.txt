@@ -1,0 +1,15 @@
+C:\Users\a.goncharova\Desktop\Seminar2\lection\lection4\pic\bin\Debug\net6.0\pic.exe
+C:\Users\a.goncharova\Desktop\Seminar2\lection\lection4\pic\bin\Debug\net6.0\pic.deps.json
+C:\Users\a.goncharova\Desktop\Seminar2\lection\lection4\pic\bin\Debug\net6.0\pic.runtimeconfig.json
+C:\Users\a.goncharova\Desktop\Seminar2\lection\lection4\pic\bin\Debug\net6.0\pic.dll
+C:\Users\a.goncharova\Desktop\Seminar2\lection\lection4\pic\bin\Debug\net6.0\pic.pdb
+C:\Users\a.goncharova\Desktop\Seminar2\lection\lection4\pic\obj\Debug\net6.0\pic.csproj.AssemblyReference.cache
+C:\Users\a.goncharova\Desktop\Seminar2\lection\lection4\pic\obj\Debug\net6.0\pic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.goncharova\Desktop\Seminar2\lection\lection4\pic\obj\Debug\net6.0\pic.AssemblyInfoInputs.cache
+C:\Users\a.goncharova\Desktop\Seminar2\lection\lection4\pic\obj\Debug\net6.0\pic.AssemblyInfo.cs
+C:\Users\a.goncharova\Desktop\Seminar2\lection\lection4\pic\obj\Debug\net6.0\pic.csproj.CoreCompileInputs.cache
+C:\Users\a.goncharova\Desktop\Seminar2\lection\lection4\pic\obj\Debug\net6.0\pic.dll
+C:\Users\a.goncharova\Desktop\Seminar2\lection\lection4\pic\obj\Debug\net6.0\refint\pic.dll
+C:\Users\a.goncharova\Desktop\Seminar2\lection\lection4\pic\obj\Debug\net6.0\pic.pdb
+C:\Users\a.goncharova\Desktop\Seminar2\lection\lection4\pic\obj\Debug\net6.0\pic.genruntimeconfig.cache
+C:\Users\a.goncharova\Desktop\Seminar2\lection\lection4\pic\obj\Debug\net6.0\ref\pic.dll
